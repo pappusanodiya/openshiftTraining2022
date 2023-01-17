@@ -1,1 +1,1 @@
-# openshiftTraining2022
+# openshiftTraining2023
